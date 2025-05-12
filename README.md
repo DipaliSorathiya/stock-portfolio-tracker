@@ -50,14 +50,14 @@ A full-stack-ready backend system to simulate a **real-time stock trading platfo
 
 ```
 src/main/java/com/tech/stockmarket
-├── config
-├── controllers
-├── dto
-├── entity
-├── repositories
-├── security
-├── services
-└── StockMarketBackendApplication.java
+👉 config
+👉 controllers
+👉 dto
+👉 entity
+👉 repositories
+👉 security
+👉 services
+👉 StockMarketBackendApplication.java
 ```
 
 ---
@@ -154,10 +154,8 @@ curl --location 'http://localhost:8080/api/portfolio/buy' \
 
 **Developer**: Dipali Sorathiya
 **Location**: Bangalore, India
-**LinkedIn**: [linkedin.com/in/dipalisorathiya]([https://linkedin.com/in/dipalisorthiya](https://www.linkedin.com/in/dipali-sorthiya-3b4053140/))
+**LinkedIn**: [linkedin.com/in/dipali-sorthiya-3b4053140](https://www.linkedin.com/in/dipali-sorthiya-3b4053140)
 
 ---
 
-Let this project speak volumes about your **Spring Boot expertise, API design skills, and system-level thinking**. ✨
 
-Happy Coding!
