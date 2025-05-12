@@ -154,7 +154,7 @@ curl --location 'http://localhost:8080/api/portfolio/buy' \
 
 **Developer**: Dipali Sorathiya
 **Location**: Bangalore, India
-**LinkedIn**: [linkedin.com/in/dipalisorathiya](https://linkedin.com/in/dipalisorathiya)
+**LinkedIn**: [linkedin.com/in/dipalisorathiya](https://linkedin.com/in/dipalisorthiya)
 
 ---
 
