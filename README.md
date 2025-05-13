@@ -140,6 +140,32 @@ curl --location 'http://localhost:8080/api/portfolio/buy' \
 * Entity <-> DTO mapping for clean API design
 * Swagger for developer-friendly API docs
 
----
+
+Postman Demo – Stock Portfolio Manager Backend Project
+
+In this video, I walk through the core backend APIs I built using Java + Spring Boot for a stock portfolio management system. 💻📊
+
+ Tech Stack:
+Java + Spring Boot
+
+MySQL
+
+JWT Authentication
+
+Postman for API testing
+
+ APIs Covered in the Demo:
+ User Registration (/api/auth/register)
+ User Login with JWT Token (/api/auth/login)
+ Add Funds (/api/portfolio/add-funds)
+ Buy Stock (/api/portfolio/buy)
+ Sell Stock (/api/portfolio/sell)
+ View Portfolio Overview (/api/portfolio/overview)
+ Transaction History (/api/portfolio/history)
+
+ All endpoints are secured using JWT-based authentication.
+
+Video Link : https://drive.google.com/drive/u/0/folders/1mcO_EpG9dnyDc_2byVdDK7kc4nmomebb
+
 
 
