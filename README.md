@@ -1,10 +1,10 @@
-# 📈 Stock Market Portfolio Tracker (Spring Boot + JWT + Swagger)
+ Stock Market Portfolio Tracker (Spring Boot + JWT + Swagger)
 
 A full-stack-ready backend system to simulate a **real-time stock trading platform**. It supports user registration, JWT-secured authentication, live stock buying/selling, portfolio insights, and transaction tracking.
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 🔐 Authentication
 
@@ -62,7 +62,7 @@ src/main/java/com/tech/stockmarket
 
 ---
 
-## 📌 Key Endpoints
+##  Key Endpoints
 
 ### 🔐 Auth APIs
 
@@ -132,29 +132,13 @@ curl --location 'http://localhost:8080/api/portfolio/buy' \
 
 ---
 
-## 🧠 Learning Highlights
+##  Learning Highlights
 
 * JWT token generation & validation filter
 * Role-based access with Spring Security
 * Live stock data fetching via RestTemplate
 * Entity <-> DTO mapping for clean API design
 * Swagger for developer-friendly API docs
-
----
-
-## 💼 Ideal For
-
-* Backend Engineering Portfolios
-* System Design Interviews (real-world domain)
-* API-Driven Frontend Integration (React/Angular)
-
----
-
-## 📬 Contact
-
-**Developer**: Dipali Sorathiya
-**Location**: Bangalore, India
-**LinkedIn**: [linkedin.com/in/dipali-sorthiya-3b4053140](https://www.linkedin.com/in/dipali-sorthiya-3b4053140)
 
 ---
 
